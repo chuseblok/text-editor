@@ -16,4 +16,4 @@ Let's you write text on browser
 
 ## what should be displayed
 
-![alt text](C:\Users\sebas\OneDrive\Desktop\text-editor\client\dist\assets\Untitled-4.png)
+![image](/client/src/images/Untitled-4.png)
