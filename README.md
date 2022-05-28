@@ -1,6 +1,6 @@
 # text-editor
 
-##Description
+## Description
 
 Let's you write text on browser
 
