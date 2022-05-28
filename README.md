@@ -8,7 +8,7 @@ Let's you write text on browser
 
 - go into your terminal, gitbash, or powershell
 - make sure you cd into the folder
-- to cd in windows, you type: cd onedrive/desktop/text-editor
+- to cd in Windows, you type: cd onedrive/desktop/text-editor
 - to cd in Apple, you type: cd desktop/text-editor
 - input: 'npm i'
 - then input: 'npm run start:dev'
