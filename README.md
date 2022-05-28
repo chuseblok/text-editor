@@ -10,9 +10,9 @@ Let's you write text on browser
 - make sure you cd into the folder
 - to cd in Windows, you type: cd onedrive/desktop/text-editor
 - to cd in Apple, you type: cd desktop/text-editor
-- input: 'npm i'
-- then input: 'npm run start:dev'
-- type http://localhost:3000/ on your browser, then press enter.
+- input: npm i
+- then input: npm run start:dev
+- type http://localhost:3000/ on your browser, then press enter
 
 ## what should be displayed
 
